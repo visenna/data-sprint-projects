@@ -69,3 +69,29 @@ Copy the template below and fill in. Then make a pull request and assign  mschwa
 | **Data Sprint** | Seattle Sprint 2026|
 | **Comment** | Comment |
 ---------------------------------------------------------
+
+
+---------------------------------------------------------
+| Project Title | Title |
+| --- | --- |
+| **Project Lead** | Dagmara Oszkiewicz |
+| **Expected first author** | Dagmara Oszkiewicz |
+| **Member (Role)** | Dmitrii Vavilov, Agnieszka Kruszczyńska, Milagros Colazo |
+| **Description of project** | Phase curves of Rubin asteroids|
+| **Data Sprint** | Seattle Sprint 2026|
+| **Comment** | Comment |
+---------------------------------------------------------
+
+---------------------------------------------------------
+| Project Title | Title |
+| --- | --- |
+| **Project Lead** | Agnieszka Kryszczyńska |
+| **Expected first author** | Agnieszka Kryszczynska |
+| **Member (Role)** | Dagmara Oszkiewicz |
+| **Description of project** | Detection of binary candidates in Rubin data |
+| **Data Sprint** | Seattle Sprint 2026|
+| **Comment** | Comment |
+---------------------------------------------------------
+
+
+
